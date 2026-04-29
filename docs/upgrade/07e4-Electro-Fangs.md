@@ -1,7 +1,7 @@
 ---
 title: "部落冲突 coc 雷电獠牙装备升级数据"
 navTitle: "雷电獠牙"
-shownTitle: "雷电獠牙（Electro Fangs）"
+shownTitle: "雷电獠牙"
 description: "雷电獠牙是飞龙公爵的普通装备。带上它后，飞龙公爵的攻击会附带连锁闪电，能对初始目标附近的单位造成递减伤害，同时还会提高飞龙公爵的生命值。"
 module: upgrade-home
 imgFolder: home_heroes/07e4
